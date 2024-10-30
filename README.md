@@ -4,6 +4,10 @@
 
 Welcome to the GitHub repository dedicated to providing comprehensive write-ups for the OWASP Juice Shop CTF challenges. OWASP Juice Shop is an intentionally insecure web application designed for training, demonstrating, and testing security tools and techniques. This repository aims to offer step-by-step solutions, detailed descriptions of vulnerabilities exploited, and recommended remediations for each challenge.
 
+## Completion Evidence
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/13d30a6c-8090-4651-b90e-dc9e04cb3227">
+
+
 ## Table of Contents
 - [Repository Structure](#repository-structure)
 - [Challenge Levels](#challenge-levels)
